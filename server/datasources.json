@@ -1,6 +1,12 @@
 {
   "db": {
+    "host": "127.0.0.1",
+    "port": 3306,
+    "database": "db",
+    "username": "root",
+    "password": "P1a2p3i4!",
     "name": "db",
-    "connector": "memory"
+    "connector": "mysql",
+    "createDatabase": true
   }
 }
